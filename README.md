@@ -66,7 +66,7 @@ Tapping a star toggles the favorite and the icon updates immediately (posts 2 an
 
 ![Starred posts](screenshots/04_starred_posts.png)
 
-### 5. Favorites saved in Hive
+### 5. Favorites saved in Hive with no internet connection
 The Favorites screen shows the saved posts, stored in `favoritesBox`.
 
 ![Favorites persisted](screenshots/05_favorites_persisted.png)
